@@ -1,7 +1,7 @@
 import Vue from 'vue'
 import Router from 'vue-router'
 import LandingPage from '@/components/LandingPage'
-
+import SetOptions from '@/components/SetOptions'
 Vue.use(Router)
 
 export default new Router({

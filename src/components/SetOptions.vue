@@ -17,7 +17,7 @@ export default {
   data () {
 
     return {
-
+      moduleIndex: this.$routeParams.moduleIndex
     }
   }
 }
